@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(rgb(173, 67, 120),rgb(216, 130, 145));
+    background-size: 100vh;
+}
+
+.card{
+    margin-top: 25px;
+}
